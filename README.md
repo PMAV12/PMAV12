@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Pilar Alva
 
-<!--
-**PMAV12/PMAV12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Actuarial Science Student | Data Science | Statistics | Finance
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an actuarial science student passionate about applying statistics, programming and machine learning to solve real-world problems.
+
+Currently, I'm building projects focused on:
+
+- 📊 Data Analysis
+- 📈 Time Series
+- 🤖 Machine Learning
+- 💼 Insurance Analytics
+- 📉 Financial Modeling
+
+---
+
+## 🛠 Technical Skills
+
+- R
+- Python
+- Excel
+- Statistics
+- Machine Learning
+
+---
+
+## 📂 Featured Projects
+
+Coming soon...
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced R
+- Machine Learning
+- Data Visualization
+
+---
+
+Thanks for visiting my profile!

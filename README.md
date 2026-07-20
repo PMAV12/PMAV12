@@ -12,9 +12,23 @@ I'm an actuarial science student passionate about applying statistics, programmi
 
 My GitHub showcases projects focused on actuarial science, insurance analytics, financial modeling and predictive analytics.
 
+---
 
+## 👩 About Me
 
+I'm an Actuarial Science student passionate about transforming data into meaningful decisions through statistics, programming and analytical thinking.
 
+My interests focus on:
+
+- 📊 Data Science
+- 📈 Statistical Modeling
+- 🛡️ Insurance Analytics
+- 💼 Financial Analysis
+- 🤖 Machine Learning
+
+I'm currently building projects that combine actuarial science, predictive analytics and real-world datasets to strengthen my technical and business skills.
+
+---
 Currently, I'm building projects focused on:
 
 - 📊 Data Analysis

@@ -29,38 +29,63 @@ My interests focus on:
 I'm currently building projects that combine actuarial science, predictive analytics and real-world datasets to strengthen my technical and business skills.
 
 ---
-Currently, I'm building projects focused on:
-
-- 📊 Data Analysis
-- 📈 Time Series
-- 🤖 Machine Learning
-- 💼 Insurance Analytics
-- 📉 Financial Modeling
-
----
 
 ## 🛠 Technical Skills
 
+### Programming
+
 - R
 - Python
+
+### Data Analysis
+
 - Excel
 - Statistics
-- Machine Learning
+
+### Machine Learning
+
+- Scikit-learn (Learning)
+
+### Version Control
+
+- Git
+- GitHub
 
 ---
 
 ## 📂 Featured Projects
 
-Coming soon...
+🚧 Coming soon...
+
+Projects currently under development:
+
+- Socioeconomic Segmentation using ENIGH 2024
+- Time Series Forecasting
+- Insurance Analytics
+- Machine Learning for Risk Analysis
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Actuarial Science**
+
+Universidad Autónoma del Estado de México (UAEMéx)
+
+Expected Graduation: 2027
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced R
+- Advanced R Programming
 - Machine Learning
+- Git & GitHub
 - Data Visualization
-
 ---
+
+## 📫 Contact
+
+- LinkedIn *(Coming Soon)*
+- Portfolio *(Coming Soon)*
 
 Thanks for visiting my profile!

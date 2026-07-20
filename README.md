@@ -1,13 +1,19 @@
 <p align="center">
   <img src="github-banner.png" width="100%">
 </p>
+
 # 👋 Hi, I'm Pilar Alva
 
-### Actuarial Science Student | Data Science | Statistics | Finance
+### *Turning data into meaningful decisions.*
 
-Welcome to my GitHub profile!
+**Actuarial Science Student** • **Data Science** • **Statistics** • **Finance**
 
 I'm an actuarial science student passionate about applying statistics, programming and machine learning to solve real-world problems.
+
+My GitHub showcases projects focused on actuarial science, insurance analytics, financial modeling and predictive analytics.
+
+
+
 
 Currently, I'm building projects focused on:
 

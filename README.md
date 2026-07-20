@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%">
+</p>
 # 👋 Hi, I'm Pilar Alva
 
 ### Actuarial Science Student | Data Science | Statistics | Finance
